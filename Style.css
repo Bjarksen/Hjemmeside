@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Loginbutt {
+	Display: flex;
+	background-color: #CA142A;
+	Color: white;
+	Border-radius: 30px;
+	border-style: none;
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif';
+	Position: absolute;
+	left: 43%;
+	top: 50%;
+	Font-size: 250%;
+	Cursor: pointer;
+	text-align: center;
+	padding-left: 50px;
+	Padding-right: 50px;
+		
+	
+	
+}

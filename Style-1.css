@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #CA142A;
+	Display: inline;
+	cursor: pointer;
+	
+}
+
+h1:hover {
+	text-decoration: underline;
+}
+
+h2 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #CA142A;
+	font-size: 50px;
+	display: inline;
+	margin-left: 120px;
+
+}
+
+
+
+p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	Display: inline;
+	Margin-left: 100px;
+	cursor: pointer;
+}
+
+p:hover {
+	color: #CA142A;
+	text-decoration: underline;
+}
+
+p2 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	Color: #707070;
+	font-size: 30px;
+	margin-top: 500px;
+}
+
+p3{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #707070;
+	font-size: 20px;
+	
+}
+
+p4{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	Color: #CA142A;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+p4:hover {
+	text-decoration: underline;
+}
+
+.rum1 {
+	margin-top: 100px;
+	margin-left: 150px;
+}
+
+.rum2 {
+	margin-top: 120px;
+	margin-left: 150px;
+}
+
+.rum3 {
+	margin-top: 50px;
+	margin-left: 150px;
+}
+
+.rum4 {
+	margin-top: 70px;
+	margin-left: 150px;
+}
+
+.rum5 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	background-color: #CA142A;
+	color: white;
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: 25%;
+	margin-right: 49%;
+	text-align: center;
+	display: inline;
+	Padding: 20px;
+	position: absolute;
+	top: 1000px; 
+	Cursor: pointer;
+}
+
+.rum5:hover {
+	text-decoration: underline;
+	
+}
+
+.rum6 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	background-color: #CA142A;
+	color: white;
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: 49%;
+	margin-right: 25%;
+	text-align: center;
+	display: inline;
+	Padding: 20px;
+	position: absolute;
+	top: 1000px; 
+	cursor: pointer;
+	
+}
+
+.rum6:hover {
+	text-decoration: underline;
+}
+
+.rum7 {
+	background-color: #CA142A;
+	color: white;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 27px;
+	margin-top: 290px;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	padding-left: 100px;
+	
+}
+.rum8 {
+	background-color: #CA142A;
+	color: white;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px;
+	padding-bottom: 50px;
+	Padding-left: 100px;
+}
+
+.rum8:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.rum9 {
+	background-color: #CA142A;
+	color: white;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+}
+
+.rum9:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.rum10 {
+	background-color: #CA142A;
+	color: white;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+}
+
+.rum10:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.pb {
+	display: inline;
+	Border-radius: 100px;
+	height: 139px;
+	Cursor: pointer;
+}
+
+.pb:hover {
+	border: 1px solid #CA142A;
+}
+
+.dropbtn {
+	background-color: #CA142A;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+	margin-top: 30px;
+	margin-left: 30px; 
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:#CA142A;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+	
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #AD1123;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {
+	background-color: #AD1123;
+}
+
+.Kalender {
+	Width: 50%;
+	Float: right;
+	Margin-right: 0%;
+}
+
+.Events {
+	width: 35%;
+	Margin-top: 50px;
+	Margin-left: 5%;
+	
+}
+
+@media only screen and (
+	max-width: 600px) {
+		.Kalender {
+			width: 100%;
+		}
+		.Events {
+			width: 80%;
+		}
+}
