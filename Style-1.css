@@ -233,12 +233,13 @@ p4:hover {
 	Width: 50%;
 	Float: right;
 	Margin-right: 0%;
+	margin-top: 88px;
 }
 
 .Events {
 	width: 35%;
 	Margin-top: 50px;
-	Margin-left: 5%;
+	Margin-left: 15%;
 	
 }
 
