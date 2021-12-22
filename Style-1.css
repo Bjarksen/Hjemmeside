@@ -54,11 +54,11 @@ p4{
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	Color: #CA142A;
 	font-size: 20px;
-	cursor: pointer;
 }
 
 p4:hover {
 	text-decoration: underline;
+	cursor: pointer;
 }
 
 .rum1 {
