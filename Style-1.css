@@ -28,10 +28,11 @@ p {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	Display: inline;
 	Margin-left: 100px;
-	cursor: pointer;
+	
 }
 
 p:hover {
+	cursor: pointer;
 	color: #CA142A;
 	text-decoration: underline;
 }
