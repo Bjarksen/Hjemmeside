@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .Loginbutt {
-	Display: flex;
+	Display: block;
 	background-color: #CA142A;
 	Color: white;
 	Border-radius: 30px;
