@@ -1,2 +1,2 @@
 # eksamensHjemmeside
- hjemmeside til eksamen
+ hjemmeside til eksamen første semester
